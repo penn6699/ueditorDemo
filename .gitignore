@@ -1,2 +1,5 @@
 /packages
 /.vs
+/WebApiDemo/packages
+/WebApiDemo/api/*
+/WebApiDemo/.vs
